@@ -68,6 +68,6 @@ npm start
 ### Short4
 - User accepts call.
 - Then caller chhoses which screen to share.
-![User_screen_share](https://github.com/Tshoko/Video_chat/blob/main/screen_sharing_ops.png)
+![User_screen_share](https://github.com/Tshoko/Video_chat/blob/main/screen_sharing.png)
 
 
