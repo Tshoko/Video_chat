@@ -51,3 +51,5 @@ To run Client'
 ```sh
 npm start
 ```
+
+## Demo images
