@@ -12,7 +12,7 @@ This project is a peer to peer video chat app that is made using following techn
 - Reacjs -> to build the front end of the video chat app.
 - FastAPI -> To build the backend server ASYNC API endpoint.
 # Original Material
-- This project is based on coding with chaim video series link:
+- This project is based on coding with chaim video series links.
 -Github (https://github.com/coding-with-chaim/react-video-chat).
 -Videos series (https://www.youtube.com/c/CodingWithChaim) 
 ## Setting up Virtual enviroment
