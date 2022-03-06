@@ -53,4 +53,21 @@ npm start
 ```
 
 ## Demo images
-[![All_Users](https://github.com/Tshoko/Video_chat/blob/main/AllUsers.png)
+### Short1
+-It will start by requesting permition to your camera.
+-The display all users.
+![All_Users](https://github.com/Tshoko/Video_chat/blob/main/AllUsers.png)
+### Short2
+- Click on User and user will recieve call
+-User accepts the call
+![Calling_user](https://github.com/Tshoko/Video_chat/blob/main/Calling_User.png)
+### Short3
+- User accepts call.
+- Then caller chooses which screen to share.
+![User_choose_screen_share](https://github.com/Tshoko/Video_chat/blob/main/screen_sharing_ops.png)
+### Short4
+- User accepts call.
+- Then caller chhoses which screen to share.
+![User_screen_share](https://github.com/Tshoko/Video_chat/blob/main/screen_sharing_ops.png)
+
+
