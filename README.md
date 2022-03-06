@@ -7,12 +7,14 @@
 
 ## Project Outline
 This project is a peer to peer video chat app that is made using following technologies:
-- simple-peer(a web RTC implimentation)-> This is used to setuo the peep to peer video chat.
-- Socket io -> python server-io and javascript client socket io.
+- simple-peer(a web RTC implimentation)-> This is used to setup the peep to peer video chat.
+- Socket io -> python server-io and javascript client socket io for signaling.
 - Reacjs -> to build the front end of the video chat app.
-- FastAPI -> TO build the backend server ASYNC API endpoint.
+- FastAPI -> To build the backend server ASYNC API endpoint.
 # Original Material
-- This project is based on coding with chaim video series link (https://github.com/coding-with-chaim/react-video-chat).
+- This project is based on coding with chaim video series link:
+  -Github (https://github.com/coding-with-chaim/react-video-chat).
+  -Videos series (https://www.youtube.com/c/CodingWithChaim) 
 ## Setting up Virtual enviroment
 ## Setup
 
